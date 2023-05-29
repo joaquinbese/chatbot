@@ -1,3 +1,14 @@
+"""
+https://docs.streamlit.io/library/get-started/installation
+In the terminal that appears, type:
+
+pip install streamlit
+Copy
+Test that the installation worked:
+
+streamlit hello
+"""
+
 import streamlit as st
 import pandas as pd
 from io import StringIO
